@@ -1,3 +1,3 @@
 <?php
-echo "Olá, Mundo!, Teste do Git";
+echo "Olá, Mundo!";
 ?>
